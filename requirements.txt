@@ -1,0 +1,4 @@
+confluent-kafka>=2.5.0
+protobuf>=5.27.0
+bitquery-pb2-kafka-package>=0.2.29
+python-dotenv>=1.0.0
